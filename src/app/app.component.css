@@ -1,0 +1,24 @@
+.navbar-primary{
+    background-color: purple;
+}
+body{
+    height: 200%;
+}
+.pokemon-container 
+.pokemoncard{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 0%;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card-body{
+    color: #5f04c7;
+}
+
+  
